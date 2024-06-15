@@ -1,0 +1,33 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: "Courier New", monospace;
+  color: #fff;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0;
+  justify-content: center;
+}
+
+main {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+img {
+  vertical-align: middle;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
